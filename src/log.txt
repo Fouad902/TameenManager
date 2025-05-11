@@ -1,0 +1,40 @@
+User with ID 1 already exists.
+Created user: Customer [user_id=66, address=hbldhb, email=hbkdjh, password=123456, age=20]
+User with ID 66 already exists.
+Updated user: Customer [user_id=66, address=hbldhb, email=hbkdjh, password=123456, age=20]
+
+Created user: Customer [user_id=8, address=jyf,gh, email=ayhaga@ayhaga, password=8, age=20]
+Created user: Customer [user_id=99, address=,sjhjgdj, email=jhgsldh, password=C, age=20]
+User updated successfully.
+User updated successfully.
+Deleted user with ID: 8
+User with ID 6 already exists.
+User with ID 6 already exists.
+User with ID 99 already exists.
+User with ID 6 already exists.
+Created user: Customer [user_id=88, address=xsjn;, email=oisjds, password=;<=>?@AB, age=66]
+Created user: Customer [user_id=90, address=90, email=90, password=MD, age=90]
+User updated successfully.
+User updated successfully.
+User updated successfully.
+User updated successfully.
+User updated successfully.
+User updated successfully.
+User updated successfully.
+Deleted user with ID: 22
+Created user: Agent [user_id=7, agentCode=null, email=fdljn, password=K, age=null]
+User updated successfully.
+Deleted user with ID: 7
+Created user: Customer [user_id=5, address=testagents, email=testfrom agent, password=I, age=20]
+Deleted user with ID: 5
+Created user: Customer [user_id=77, address=test77, email=test77, password=KK, age=70]
+Created user: Customer [user_id=96, address=test96, email=96test, password=MJ, age=55], agent code =2
+Created user: Customer [user_id=97, address=admintest, email=test97, password=MK, age=55], agent code =0
+Created user: Customer [user_id=111, address=dsf, email=shbdkwd, password=EEE, age=11], agent code =1
+Created user: Customer [user_id=33, address=33, email=33, password=GG, age=33, agent code =1]
+Created user: Customer [user_id=1, address=.11111, email=11111, password=E, age=1, agent code =1]
+Created user: Customer [user_id=2, address=vfd, email=dvdvg, password=F, age=2, agent code =1]
+Created user: Customer [user_id=3, address=fgd, email=dfgf, password=G, age=22, agent code =2]
+Created user: Customer [user_id=555, address=5555street, email=555@gmail.com, password=III, age=55, agent code =null]
+User updated successfully.
+Deleted user with ID: 555

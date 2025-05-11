@@ -1,0 +1,5 @@
+Agent [user_id=1234, agentCode=null, email=ag@em.com, password=;<=>, age=125897]
+Agent [user_id=6, agentCode=null, email=jsjghlud, password=@, age=null]
+Agent [user_id=1, agentCode=null, email=test, password=;, age=null]
+Agent [user_id=2, agentCode=2, email=test, password=<, age=28]
+Agent [user_id=1, agentCode=1, email=test, password=;, age=28]

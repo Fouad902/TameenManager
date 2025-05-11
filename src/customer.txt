@@ -1,0 +1,4 @@
+Customer [user_id=1, address=.11111, email=11111, password=E, age=1, agent code =1]
+Customer [user_id=2, address=vfd, email=dvdvg, password=F, age=2, agent code =1]
+Customer [user_id=3, address=fgd, email=dfgf, password=G, age=22, agent code =2]
+Customer [user_id=4, address=41, email=4ljgjv, password=>, age=4test, agent code =null]
